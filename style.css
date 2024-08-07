@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #cd8df4;
+  font-family: Arial;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  color: rebeccapurple;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+
+figure {
+  align-content: center;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.nome {
+  padding-bottom: 15px;
+}
+
+.bioNome1 {
+  padding-bottom: 10px;
+}
+
+.bioNome2 {
+  padding-bottom: 10px;
+}
+
+.linkCidade {
+  color: #9b088f;
+}
+
+h3 {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+section {
+  margin-left: 0px;
+  margin-top: 15px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rebeccapurple;
+  color: #cd8df4;
+}
+
+a {
+  color: #cd8df4;
+}
+
+div {
+  flex: 1;
+}
+
+footer {
+  background-color: #d9d9d9;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}/*# sourceMappingURL=style.css.map */
